@@ -18,9 +18,10 @@ https://www.oklink.com/cn/ethw/tx/0xa90bd37363bd982d43b858db9cbdeee6fed34362d99b
 18448609
 
 ## Mint ETWS with TokenPocket Wallet
- - Receiver address:your address.
+ - Receiver address: Your address. 
  - Transfer amount 0 ETHW
  - Click on Advanced Settings and fill in text `data:,{"p":"etw-20","op":"mint","tick":"etws","amt":"1000"}`
  - or Click on Advanced Settings and fill in hexadecimal `0x646174613a2c7b2270223a226574772d3230222c226f70223a226d696e74222c227469636b223a2265747773222c22616d74223a2231303030227d`
-![image](https://github.com/ETW20-ETWS/ETW20/assets/152284226/04b05498-65ea-48e5-9ca8-ff411eaec0a5)
+![image](https://github.com/ETW20-ETWS/ETW20/assets/152284226/a5ae35a1-6279-4bbb-95f1-9415ed463424)
+
 
